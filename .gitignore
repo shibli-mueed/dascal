@@ -1,4 +1,5 @@
 wort_lehrer/
+__pycache__
 *.json
 test.py
 scripts/test.py
