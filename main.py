@@ -128,7 +128,7 @@ layout = [
     [sg.Text("Choose Level "),sg.Combo(levels,
                               key='level',
                               expand_x=True,
-                              default_value='B1'
+                              default_value='A1'
                               )],
     
     [sg.Button("Add Notification",key='SUBMIT',expand_x=True),
