@@ -15,7 +15,7 @@ def initialize():
         with open(f'{dir_path}\\res\\data.json', 'r') as file:
             loaded_data = json.load(file)
     except:
-        
+        os.mkdir(f'{dir_path}\\htmls')
         import subprocess as sp
         cmds=["python -m pip install --upgrade pip","pip install -r requirements.txt"]
         for i in cmds:
