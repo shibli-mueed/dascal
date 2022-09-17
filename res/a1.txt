@@ -1,0 +1,151 @@
+heiß [auch fig.]
+kalt
+warm
+dunkel [auch fig.]
+hell
+klein
+groß
+dort
+wieviel [alt]
+hier
+mit [+Dat.] <m.>
+geradeaus
+nach rechts
+nach links
+Ich bin fremd hier.
+Ich bin aus Österreich.
+Deutschland {n} <Dtl., Dtld., DEU, DE, D, GER>
+Schweiz {f}
+Haben Sie ... ? [formelle Anrede]
+Bitte zahlen!
+Ich weiß (es) nicht.
+Guten Appetit!
+Entschuldigen Sie bitte! [formelle Anrede]
+Zum Wohl!
+Gesundheit! [nach dem Niesen]
+Wie geht es Ihnen? [formelle Anrede]
+Wie geht's? [ugs.]
+Komm schon!
+Lass uns gehen!
+zahlen
+Rechnung {f} [schriftliche Kostenforderung]
+Toilette {f} [Klosettbecken; Raum; geh.: das Sichankleiden bzw. Sichzurechtmachen]
+Toilette {f} [Raum (in einem öffentlichen Gebäude)]
+Tankstelle {f}
+Tankstelle {f}
+Hilfe {f}
+Stopp!
+Arzt {m}
+Steckdose {f}
+Wein {m}
+Kaffee {m}
+Milch {f}
+Tee {m}
+Wasser {n} <H2O>
+Brot {n}
+Suppe {f}
+Salat {m} [Zubereitung]
+Reis {m}
+Salz {n}
+Pfeffer {m}
+Zucker {m}
+Fisch {m}
+Huhn {n}
+Schweinefleisch {n}
+Rindfleisch {n}
+Lammfleisch {n}
+Kuchen {m}
+Eis {n} [kurz für: Speiseeis]
+Süßigkeit {f}
+Vorspeise {f}
+Hauptgericht {n}
+Nachtisch {m}
+violett
+blau
+dunkelblau
+hellgrün
+braun
+silbern
+golden
+schwarz
+rot
+weiß
+orange
+grün
+gelb
+eins
+zwei
+drei
+vier
+fünf
+sechs
+sieben
+acht
+neun
+zehn
+elf
+zwölf
+dreizehn
+vierzehn
+fünfzehn
+sechzehn
+siebzehn
+achtzehn
+neunzehn
+zwanzig
+einundzwanzig
+dreißig
+vierzig
+fünfzig
+sechzig
+siebzig
+achtzig
+neunzig
+hundert
+zweihundert
+tausend
+Frau {f}
+Frauen {pl}
+Mann {m}
+Männer {pl}
+Junge {m}
+Jungen {pl}
+Mädchen {n}
+Mädchen {pl}
+Kind {n}
+Kinder {pl}
+Familie {f} <Fam.>
+Sohn {m}
+Schwester {f}
+Mutter {f}
+Mama {f}
+Vater {m}
+Papa {m} [ugs.]
+Eltern {pl}
+Großmutter {f}
+Oma {f} [ugs.]
+Großvater {m}
+Opa {m} [ugs.]
+Großeltern {pl}
+Enkeltochter {f}
+Enkelsohn {m}
+Enkel {m} [regional auch: {n}]
+Cousin {m}
+Cousine {f}
+Tante {f}
+Onkel {m}
+Nichte {f}
+Neffe {m}
+Freund {m} [Freundschaft]
+Freund {m} [Liebesbeziehung]
+Freundin {f} [Liebesbeziehung]
+Verlobter {m}
+Verlobte {f}
+Braut {f} [am Hochzeitstag, oder sogar nur unmittelbar vor und nach der Trauung]
+Bräutigam {m}
+Ehefrau {f}
+Ehemann {m}
+Ehegatte {m} [geh.] [Ehemann; jur. auch: einer der beiden Ehepartner]
+Schwager {m}
+nein
+ja

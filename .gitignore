@@ -1,0 +1,4 @@
+wort_lehrer/
+*.json
+test.py
+scripts/test.py
